@@ -4,7 +4,7 @@
 
 ## Olá pessoal 👋
 
-<br/> Sou apaixonado por Front-end .
+<br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end .
 <br/> Estou graduando em Ciência da Computação na (UESB) Universidade Estadual do Sudoeste da Bahia.
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end !
