@@ -1,14 +1,14 @@
-//<img width="200px" src="https://github.com/teteuds.png">
-
 # Mateus Dias
+
+<img width="200px" src="https://github.com/teteuds.png">
 
 ## Olá pessoal 👋
 
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end .
-<br/> Estou graduando em Ciência da Computação na (UESB) Universidade Estadual do Sudoeste da Bahia.
+<br/> Estou graduando em Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end !
-<br/> :computer: &nbsp; Minha stack: Java, JavaScript, Html, Css, React.
+<br/> :computer: &nbsp; Minha stack: Java, JavaScript, Html, Css .
 <br/> 💬  &nbsp; Sobre mim: Gosto de tecnologias,buscando sempre o conhecimento !
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MateusDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-dias-507492168/)](https://www.linkedin.com/in/mateus-dias-507492168/) 
 | 
