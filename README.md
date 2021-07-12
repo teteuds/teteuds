@@ -4,7 +4,7 @@
 
 <br/>Buscando colaborar com projetos é uma oportunidade de estágio !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&theme=highcontrast)
 
 <br/> 💬  &nbsp; Sobre mim:
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
