@@ -23,3 +23,4 @@
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MateusDias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-dias-507492168/)](https://www.linkedin.com/in/mateus-dias-507492168/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-MateusDias-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teu.dias00@gmail.com)](mailto:teu.dias00@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/teteuds/) [<img 
