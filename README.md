@@ -1,7 +1,5 @@
 # Mateus Dias
 
-<img width="200px" src="https://github.com/teteuds.png">
-
 ## Olá pessoal 👋
 
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end .
