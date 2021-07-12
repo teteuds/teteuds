@@ -2,6 +2,7 @@
 
 ## Olá pessoal 👋
 
+<br/> :black_heart: &nbsp; Buscando colaborar com projetos é uma oportunidade de estágio !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&theme=highcontrast)
 
@@ -9,7 +10,7 @@
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
 <br/> Estou graduando em Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
-<br/> :black_heart: &nbsp; Buscando colaborar com projetos é uma oportunidade de estágio !
+
 <br/> :computer: &nbsp; Minha stack:
 
 <div style="display: inline_block">
@@ -21,7 +22,6 @@
 </div>
 
 
-<br/>
 <br/> :email: &nbsp; Entre em contato comigo:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusdias1/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:teu.dias00@gmail.com)
