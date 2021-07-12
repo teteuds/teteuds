@@ -2,6 +2,9 @@
 
 ## Olá pessoal 👋
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codethi&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codethi&layout=compact&theme=highcontrast)
+
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end .
 <br/> Estou graduando em Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
