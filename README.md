@@ -29,3 +29,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusdias1/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:teu.dias00@gmail.com)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/teteuds/)
+
+## Glad to see you here   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${teteuds}.${https://github.com/teteuds/teteuds.git)
+
