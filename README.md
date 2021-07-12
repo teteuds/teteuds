@@ -5,7 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=highcontrast) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&theme=highcontrast)
 
-<br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end .
+<br/> 💬  &nbsp; Sobre mim:
+<br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
 <br/> Estou graduando em Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 <br/> :black_heart: &nbsp; Buscando colaborar com projetos é uma oportunidade de estágio !
@@ -19,7 +20,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
 
-<br/> 💬  &nbsp; Sobre mim: Gosto de tecnologias,buscando sempre o conhecimento !
+
 <br/>
 <br/> :email: &nbsp; Entre em contato comigo:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusdias1/)
