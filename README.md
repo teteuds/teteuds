@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 
-<br/>Buscando colaborar com projetos é uma oportunidade de estágio !
+<br/>Buscando colaborar com projetos !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&theme=dracula)
