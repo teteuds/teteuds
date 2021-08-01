@@ -4,9 +4,7 @@
 
 <br/>Buscando colaborar com projetos !
 
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
-</p>
 
 <br/> 💬  &nbsp; Sobre mim:
 <br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
