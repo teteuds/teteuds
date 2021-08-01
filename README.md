@@ -6,8 +6,6 @@
 
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&&show_icons=true&theme=dracula">
 </p>
 
 <br/> 💬  &nbsp; Sobre mim:
