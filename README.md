@@ -4,11 +4,10 @@
 
 <br/>Buscando colaborar com projetos !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&bg_color=0d1117&title_color=66ffcc&text_color=88ff00&locale=pt-br&hide_border=true&border_radius=10&card_width=450">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&&show_icons=true&theme=dracula">
 </p>
 
 <br/> 💬  &nbsp; Sobre mim:
