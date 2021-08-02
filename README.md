@@ -2,12 +2,14 @@
 
 ## Olá pessoal 👋
 
-<br/>Buscando colaborar com projetos !
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula) 
-
+<div>
+  <a href="https://github.com/teteuds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=teteuds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuds&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+    
 <br/> 💬  &nbsp; Sobre mim:
-<br/> Sou apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
+<br/> Sou estudante de Ciência da Computação e apaixonado por Desenvolvimento Web com ênfase em Front-end, gosto de tecnologias,buscando sempre o conhecimento !
 <br/> Estou graduando em Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB).
 
 
